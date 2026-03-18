@@ -1,4 +1,4 @@
-# 🔬 Semiconductor SPC Dashboard
+# 🔬 WaferGuard SPC System (Semiconductor Process Control Dashboard
 
 **Statistical Process Control (SPC) monitoring system with automated WECO violation detection**  
 Built for semiconductor manufacturing process monitoring — directly applicable to FDC, WAT, and yield engineering roles.
