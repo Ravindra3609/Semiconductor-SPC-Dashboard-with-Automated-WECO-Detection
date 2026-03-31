@@ -4,6 +4,15 @@
 Built for semiconductor manufacturing process monitoring — directly applicable to FDC, WAT, and yield engineering roles.
 
 ---
+<img width="1462" height="836" alt="Screenshot 2026-03-31 at 9 34 41 AM" src="https://github.com/user-attachments/assets/c48e0ead-d006-4520-b7fe-58f9455a3d66" />
+<img width="1462" height="836" alt="Screenshot 2026-03-31 at 9 35 04 AM" src="https://github.com/user-attachments/assets/b5f47413-79f1-43e8-b792-40faeffd9866" />
+<img width="1462" height="830" alt="Screenshot 2026-03-31 at 9 35 53 AM" src="https://github.com/user-attachments/assets/fe7ae3d0-afab-4c17-b3ed-4945c2a52e04" />
+<img width="1462" height="830" alt="Screenshot 2026-03-31 at 9 36 10 AM" src="https://github.com/user-attachments/assets/22d7fb0c-284a-43db-97da-624c21d91b94" />
+<img width="1462" height="835" alt="Screenshot 2026-03-31 at 9 37 03 AM" src="https://github.com/user-attachments/assets/7cc6f125-d0d8-411a-9523-6fb6ea2e25a1" />
+<img width="1166" height="718" alt="Screenshot 2026-03-31 at 9 37 27 AM" src="https://github.com/user-attachments/assets/bbfb9045-f223-4d8f-b67e-faedeee893bb" />
+<img width="1263" height="718" alt="Screenshot 2026-03-31 at 9 37 58 AM" src="https://github.com/user-attachments/assets/70546398-cbe7-4660-a8ba-add507ddc614" />
+
+
 
 ## What this project does
 
